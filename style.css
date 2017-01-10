@@ -80,6 +80,10 @@ body {
   margin: 10px auto;
 }
 
+.slideshow {
+  z-index: -1;
+}
+
 a, p, h2 {
   font-size: 20px;
   color: black;
