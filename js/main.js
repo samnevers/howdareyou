@@ -25,7 +25,6 @@ var students = {
     ],
     rozen: [
         ["Rozen, you can't hide behind your laptop screen!"]
-
     ],
     sam: [
         ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
@@ -34,7 +33,7 @@ var students = {
         ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
     ],
     tim: [
-        ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
+        ["Fav Badger moment…. Every time he touched my computer…. 'Oh God! What’d i do??...get fuck’d….fuck this…..fuckin' vim!'"]
     ],
     ned: [
         ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
