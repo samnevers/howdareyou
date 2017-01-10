@@ -7,7 +7,8 @@ var students = {
         ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
     ],
     emmanuel: [
-        ["Hey Badger... Hey Badger... Hey Badger... \nGreat pep talk, Badger! Though you can't hear me whispering to you..."]
+        ["Hey Badger... Hey Badger... Hey Badger..."],
+        ["Great pep talk, Badger! Though you can't hear me whispering to you..."]
     ],
     esther: [
         ["Thanks Badger for all your help! You have been very entertaining! All the best in your next role. I'm sure you will do great !"]
