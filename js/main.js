@@ -4,7 +4,8 @@ var students = {
         ["I am obviously too devastated - I have no words."],
     ],
     drew: [
-        ["Did I ever tell you you're my hero? You're everything, everything I wish I could be. Oh, and I, I could fly higher than an eagle, For you are the wind beneath my wings, 'cause you are the wind beneath my wings."]
+        ["Did I ever tell you you're my hero? You're everything, everything I wish I could be. Oh, and I, I could fly higher than an eagle, For you are the wind beneath my wings, 'cause you are the wind beneath my wings."],
+        ["If you are a certain type of badger, you are a rock badger. Because you were everyone's rock. No homo."]
     ],
     emmanuel: [
         ["Hey Badger... Hey Badger... Hey Badger..."],
