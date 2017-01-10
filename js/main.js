@@ -72,11 +72,39 @@ var showActivities = function(student) {
     }
 };
 
+var sorryBadger = function(student) {
+
+    $(".bgoverlay").fadeToggle();
+    // var name = $(this).attr("id");
+    // var activities = students[student];
+    // var $heading = $("<h2></h2>");
+    // $heading.text(student);
+    // current = student;
+    // $(".text-block").append($heading);
+    // for (var i = 0; i < activities.length; i++) {
+    //     var $para;
+    //     if (Array.isArray(activities[i])) {
+    //         $para = $("<a></a>");
+    //         $para.text(activities[i][0]);
+    //         $para.attr("href", activities[i][1]);
+    //         $para.attr("target", "_blank");
+    //     } else {
+    //         $para = $("<p></p>");
+    //         $para.text(activities[i]);
+    //     }
+    //     $(".text-block").append($para);
+    // }
+};
+
 $(document).ready(function() {
 
     $(".photos").on("click", function() {
         var student = $(this).attr("id");
         showActivities(student);
+    });
+
+    $( "h1" ).on( "click", function () {
+        sorryBadger();
     });
 
     $('.slideshow').slick({

@@ -18,6 +18,10 @@ body {
   margin-top: 50px;
 }
 
+.bgoverlay {
+  z-index: 20;
+}
+
 .transparent {
   position: absolute;
   top: 0;
@@ -28,7 +32,7 @@ body {
   z-index: -1;
 }
 
-.overlay {
+.overlay, .bgoverlay {
   position: fixed;
   top: 0;
   left: 0;
