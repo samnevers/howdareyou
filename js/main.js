@@ -10,7 +10,7 @@ var students = {
         ["badger can't hear me whispering to him"]
     ],
     esther: [
-        ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
+        ["Thanks Badger for all your help! You have been very entertaining! All the best in your next role. I'm sure you will do great !"]
 
     ],
     ewelina: [
@@ -40,7 +40,7 @@ var students = {
         ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
     ],
     james: [
-        "YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
+        "Fav Badger moment… in relation to our (my) spelling mistake on group project and Badger pointing it out during our Demo! 'I just thought it was funny that you have this _really_ fuckin' cool app, and the only thing wrong with it was a typo in the name of the app.'"]
 };
 
 var studs = Object.keys(students);
