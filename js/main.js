@@ -7,7 +7,7 @@ var students = {
         ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
     ],
     emmanuel: [
-        ["badger can't hear me whispering to him"]
+        ["Hey Badger... Hey Badger... Hey Badger... \nGreat pep talk, Badger! Though you can't hear me whispering to you..."]
     ],
     esther: [
         ["Thanks Badger for all your help! You have been very entertaining! All the best in your next role. I'm sure you will do great !"]
@@ -30,7 +30,7 @@ var students = {
         ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
     ],
     steve: [
-        ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
+        ["Badger is my \"Google\" during project weeks. Thank you so much, I really appreciate it!"]
     ],
     tim: [
         ["Fav Badger moment…. Every time he touched my computer…. 'Oh God! What’d i do??...get fuck’d….fuck this…..fuckin' vim!'"]
