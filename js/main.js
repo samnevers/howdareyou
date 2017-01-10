@@ -1,10 +1,10 @@
 
 var students = {
     ahi: [
-        ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"],
+        ["I am obviously too devastated - I have no words."],
     ],
     drew: [
-        ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
+        ["Did I ever tell you you're my hero? You're everything, everything I wish I could be. Oh, and I, I could fly higher than an eagle, For you are the wind beneath my wings, 'cause you are the wind beneath my wings."]
     ],
     emmanuel: [
         ["Hey Badger... Hey Badger... Hey Badger..."],
@@ -24,7 +24,7 @@ var students = {
         ["Fav actual Badger moment... when he said, \"Mario... you are the best looking developer I've ever met..\". Okay, he never said that... but that still remains my fav Badger moment."]
     ],
     rhys: [
-        ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
+        ["I am obviously too devastated - I have no words."]
     ],
     rozen: [
         ["Rozen, you can't hide behind your laptop screen!"]
@@ -42,7 +42,7 @@ var students = {
         ["Fav Badger moment…. Every time he touched my computer…. 'Oh God! What’d i do??...get fuck’d….fuck this…..fuckin' vim!'"]
     ],
     ned: [
-        ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
+        ["Thanks Badger for all your help with the impossible question. Going to miss that luxurious lions mane."]
     ],
     james: [
         "Fav Badger moment… in relation to our (my) spelling mistake on group project and Badger pointing it out during our Demo! 'I just thought it was funny that you have this _really_ fuckin' cool app, and the only thing wrong with it was a typo in the name of the app.'"]
