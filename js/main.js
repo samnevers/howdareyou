@@ -78,6 +78,13 @@ $(document).ready(function() {
         showActivities(student);
     });
 
+    $('.slideshow').slick({
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 2000
+    });
+
     $(".close").on("click", function() {
         $(".text-block").empty();
         $(".overlay").fadeToggle();
