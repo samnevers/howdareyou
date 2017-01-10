@@ -19,7 +19,9 @@ var students = {
         ["What?!"]
     ],
     mario: [
-        "I'm about to press BADGER Destroy_all from my database"
+        ["I'm about to press BADGER Destroy_all from my database"],
+        ["Fav Badger moment... when he told us that joke about Number 42... oh sorry, that was Jack..."],
+        ["Fav actual Badger moment... when he said, \"Mario... you are the best looking developer I've ever met..\". Okay, he never said that... but that still remains my fav Badger moment."]
     ],
     rhys: [
         ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
@@ -28,7 +30,10 @@ var students = {
         ["Rozen, you can't hide behind your laptop screen!"]
     ],
     sam: [
-        ["YOU OWE ME YOUR FAVE MEMORY OR GOODBYE MESSAGE MOTHERFUCKER"]
+        ["\"Hey Badger, do you wanna go sort that duck out?\" - Wolf"],
+        ["\"HORSE BRUTALITY PARTY\" - Badger"],
+        ["\"WHY THE FUCK CAN I HEAR THE BACKSTREET BOYS???\""],
+        ["Every single time Badger cried from \"allergies\""]
     ],
     steve: [
         ["Badger is my \"Google\" during project weeks. Thank you so much, I really appreciate it!"]
